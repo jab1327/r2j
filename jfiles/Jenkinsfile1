@@ -16,5 +16,5 @@ stage('stage3') {
 sh '''echo stage3 steps'''
 }
 }
-                ]
+
 }}}}}
